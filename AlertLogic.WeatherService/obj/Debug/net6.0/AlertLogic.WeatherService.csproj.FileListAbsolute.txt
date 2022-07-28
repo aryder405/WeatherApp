@@ -1,0 +1,12 @@
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\bin\Debug\net6.0\AlertLogic.WeatherService.deps.json
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\bin\Debug\net6.0\AlertLogic.WeatherService.dll
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\bin\Debug\net6.0\AlertLogic.WeatherService.pdb
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.dll
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\refint\AlertLogic.WeatherService.dll
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\AlertLogic.WeatherService.pdb
+C:\Users\Adam\source\repos\Sandbox\AlertLogic.WeatherService\obj\Debug\net6.0\ref\AlertLogic.WeatherService.dll

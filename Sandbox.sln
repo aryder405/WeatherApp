@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{A0CBD66F-2F4B-4EF6-A225-FC2851626948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertLogic.WeatherService", "AlertLogic.WeatherService\AlertLogic.WeatherService.csproj", "{EA2FABD8-09CA-46A4-94C1-23B4C5CD1DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CBD66F-2F4B-4EF6-A225-FC2851626948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CBD66F-2F4B-4EF6-A225-FC2851626948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CBD66F-2F4B-4EF6-A225-FC2851626948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CBD66F-2F4B-4EF6-A225-FC2851626948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2FABD8-09CA-46A4-94C1-23B4C5CD1DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2FABD8-09CA-46A4-94C1-23B4C5CD1DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2FABD8-09CA-46A4-94C1-23B4C5CD1DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2FABD8-09CA-46A4-94C1-23B4C5CD1DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A48BA8-992A-48CB-85E6-12C0979E6E11}
+	EndGlobalSection
+EndGlobal
