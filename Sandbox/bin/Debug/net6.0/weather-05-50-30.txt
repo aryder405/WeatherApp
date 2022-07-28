@@ -1,0 +1,4 @@
+ZipCode	TimeZone	City	State	WeatherDescription	CurrentPrecipPercent	CurrentTempInFahrenheit	AveragePrecipPercent	AverageTempInFahrenheit	StartTime	EndTime
+89122	America/Los_Angeles	Whitney	NV	Few clouds	0.00	99.20	0.00	101.79	7/28/2022 4:51:00 PM	7/28/2022 5:50:00 PM
+80122	America/Denver	Southglenn	CO	Broken clouds	0.00	74.00	0.00	70.75	7/28/2022 5:51:00 PM	7/28/2022 6:50:00 PM
+90122	America/New_York	Canaan	CT	Clear sky	0.00	81.80	0.00	79.85	7/28/2022 7:51:00 PM	7/28/2022 8:50:00 PM

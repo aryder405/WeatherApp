@@ -1,2 +1,0 @@
-ZipCode	TimeZone	City	State	WeatherDescription	CurrentPrecipPercent	CurrentTempInFahrenheit	AveragePrecipPercent	AverageTempInFahrenheit	StartTime	EndTime
-34234	America/New_York	North Sarasota	FL	Clear sky	0.00	90.50	0.00	84.68	7/28/2022 7:34:00 PM	7/28/2022 8:33:00 PM
